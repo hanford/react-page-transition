@@ -6,6 +6,8 @@
 Drop in page transition component built for hooks
 </p>
 
+![preview](https://github.com/hanford/react-page-transition/blob/master/preview.gif)
+
 <p align="center">
   <a href="https://www.npmjs.com/package/react-page-transition">
     <img src="https://img.shields.io/npm/dy/react-page-transition.svg">
