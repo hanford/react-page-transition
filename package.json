@@ -1,0 +1,39 @@
+{
+  "name": "react-page-transition",
+  "version": "0.0.1",
+  "description": "react page transition component",
+  "main": "index.js",
+  "repository": "https://github.com/hanford/react-page-transition",
+  "author": "Jack Hanford",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "page",
+    "transition",
+    "animation",
+    "slider"
+  ],
+  "files": [
+    "index.*"
+  ],
+  "scripts": {
+    "test": "ava test.js",
+    "example": "parcel example.html"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "devDependencies": {
+    "parcel": "^1.10.3",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-test-renderer": "latest"
+  },
+  "dependencies": {
+    "react-spring": "^8.0.20"
+  }
+}
